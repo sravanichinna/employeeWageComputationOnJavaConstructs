@@ -3,9 +3,6 @@ public class empWageComptation{
 	public static void main(String args[])
 	{
 		System.out.println("welcome to employee wage Computation");
-		Random random=new Random();
-                int randomNum=random.nextInt(3);
-                System.out.println("Random number: "+randomNum);
                 int maxHrsInMonth=100;
 		int noOfWorkDay=20;
 		int empRatePerHr=20;
